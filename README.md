@@ -33,5 +33,3 @@ gh repo create
 
 npm i
 ```
-
-# front-react-ts-start
