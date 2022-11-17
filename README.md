@@ -30,9 +30,8 @@ git init .
 git add .
 git commit -m "First commit"
 gh repo create
-git push -u origin main
 
 npm i
 ```
+
 # front-react-ts-start
-# frontend-react-ts-starter
